@@ -1,6 +1,10 @@
-## 🥗 Restaurant
+# 🥗 Restaurant
 
 Projeto para o expor produtos e serviços do restaurante.
+
+## O Projeto
+
+Apresentar o restaurante de forma digital com todos os seus serviços e produtos.
 
 ### 📁 Detalhes do projeto  
 
